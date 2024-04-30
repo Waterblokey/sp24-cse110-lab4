@@ -1,0 +1,2 @@
+1. num1 and num2 are strings, so result concatenated the strings instead of adding them like numbers
+2. I would use the Number() function on num1 and num2 to convert them from strings to numbers before computation.
